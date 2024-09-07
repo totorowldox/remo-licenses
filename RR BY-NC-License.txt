@@ -1,0 +1,19 @@
+Remo Revolutionized License Attribution-NonCommercial 1.0
+
+Copyleft [year] [author]
+
+1. The author holds no rights to this repository and, therefore, 
+cannot grant any rights to you.
+
+2. You are free to use your copy of this repository in any manner 
+you choose, provided that you:
+    * Attribute the original author (BY).
+    * Do not use it for commercial purposes (NC).
+
+3. Be aware that your actions may potentially violate local laws. 
+The author and the repository disclaim any responsibility for your 
+conduct. You are expected to adhere to your own ethical standards.
+
+4. Any derivative works must also be distributed under the same
+license terms.
+
