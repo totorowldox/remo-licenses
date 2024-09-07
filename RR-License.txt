@@ -12,6 +12,3 @@ you choose.
 The author and the repository disclaim any responsibility for your 
 conduct. You are expected to adhere to your own ethical standards.
 
-4. Any derivative works must also be distributed under the same
-license terms.
-
