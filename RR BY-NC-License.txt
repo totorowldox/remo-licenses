@@ -14,3 +14,5 @@ you choose, provided that you:
 The author and the repository disclaim any responsibility for your 
 conduct. You are expected to adhere to your own ethical standards.
 
+4. Any derivative works of this project must also include this
+license term.
